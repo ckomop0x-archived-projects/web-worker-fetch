@@ -1,0 +1,15 @@
+{
+  "name": "web-worker-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pavel Ckomop0x Klochkov <paul.klochkov@gmail.com> (https://ckomop0x.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "comlink-fetch": "0.1.2"
+  }
+}
